@@ -106,28 +106,28 @@ If a repetitive task can be automated, it probably should be.
 
 # ▸ SYSTEM STATUS
 
-SYSTEM
+    SYSTEM
 
-ONLINE
-
-
-CURRENT FOCUS
-
-Automation
-Documentation
-Open Source
-AI Tools
+    ONLINE
 
 
-BUILDING
+    CURRENT FOCUS
 
-CV Para Todos
-Content Creator
+    Automation
+    Documentation
+    Open Source
+    AI Tools
 
 
-MODE
+    BUILDING
 
-Continuous Improvement
+    CV Para Todos
+    Content Creator
+
+
+    MODE
+
+    Continuous Improvement
 
 <br>
 
