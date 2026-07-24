@@ -104,11 +104,31 @@ If a repetitive task can be automated, it probably should be.
 
 <br>
 
-# ▸ SYSTEM STATISTICS
+# ▸ SYSTEM STATUS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmartinguerrero&show_icons=true&hide_border=true&bg_color=0a0f0a&title_color=66ff99&text_color=88aa88&icon_color=66ff99" width="70%" alt="GitHub Statistics">
-</p>
+```text
+SYSTEM
+
+ONLINE
+
+
+CURRENT FOCUS
+
+Automation
+Documentation
+Open Source
+AI Tools
+
+
+BUILDING
+
+CV Para Todos
+Content Creator
+
+
+MODE
+
+Continuous Improvement
 
 <br>
 
