@@ -128,7 +128,7 @@ Content Creator
 
 MODE
 
-Continuous Improvement
+Continuous Improvement```
 
 <br>
 
