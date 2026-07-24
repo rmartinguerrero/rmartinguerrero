@@ -106,7 +106,6 @@ If a repetitive task can be automated, it probably should be.
 
 # ▸ SYSTEM STATUS
 
-```text
 SYSTEM
 
 ONLINE
@@ -128,7 +127,7 @@ Content Creator
 
 MODE
 
-Continuous Improvement```
+Continuous Improvement
 
 <br>
 
