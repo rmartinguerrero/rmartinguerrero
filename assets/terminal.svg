@@ -64,12 +64,14 @@
         <text x="80" y="96" font-family="'Courier New',Courier,monospace" font-size="12" fill="#2a3a2a" opacity="0">&#9484;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;</text>
         <animate attributeName="opacity" values="1;1" begin="0.3s" dur="0.1s" fill="freeze"/>
 
-        <text x="80" y="126" font-family="'Courier New',Courier,monospace" font-size="15" fill="#66ff99" opacity="0" filter="url(#glow)">INITIALIZING RMG SYSTEM...</text>
-        <animate attributeName="opacity" to="1" begin="0.9s" dur="0.08s" fill="freeze"/>
+        <text x="80" y="126" font-family="'Courier New',Courier,monospace" font-size="15" fill="#66ff99" opacity="0" filter="url(#glow)">INITIALIZING RMG SYSTEM...
+          <animate attributeName="opacity" to="1" begin="0.9s" dur="0.08s" fill="freeze"/>
+        </text>
 
         <!-- DOCUMENTATION MODULE -->
-        <text x="80" y="158" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99" opacity="0">LOADING DOCUMENTATION MODULE...</text>
-        <animate attributeName="opacity" to="1" begin="1.3s" dur="0.08s" fill="freeze"/>
+        <text x="80" y="158" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99" opacity="0">LOADING DOCUMENTATION MODULE...
+          <animate attributeName="opacity" to="1" begin="1.3s" dur="0.08s" fill="freeze"/>
+        </text>
 
         <rect x="80" y="170" width="240" height="10" fill="#0a1a0a" rx="1" opacity="0">
           <animate attributeName="opacity" to="1" begin="1.3s" dur="0.08s" fill="freeze"/>
@@ -77,17 +79,21 @@
         <rect x="80" y="170" width="0" height="10" fill="#66ff99" rx="1" opacity="0.85">
           <animate attributeName="width" from="0" to="240" begin="1.4s" dur="0.5s" fill="freeze"/>
         </rect>
-        <text x="330" y="180" font-family="'Courier New',Courier,monospace" font-size="12" fill="#66ff99" opacity="0">100%</text>
-        <animate attributeName="opacity" to="1" begin="1.9s" dur="0.08s" fill="freeze"/>
+        <text x="330" y="180" font-family="'Courier New',Courier,monospace" font-size="12" fill="#66ff99" opacity="0">100%
+          <animate attributeName="opacity" to="1" begin="1.9s" dur="0.08s" fill="freeze"/>
+        </text>
 
-        <text x="80" y="196" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3d6b4e" opacity="0">[  OK  ] Loading /etc/rmg/docs.conf</text>
-        <animate attributeName="opacity" to="1" begin="1.5s" dur="0.08s" fill="freeze"/>
-        <text x="80" y="210" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3d6b4e" opacity="0">[  OK  ] Initializing documentation subsystem</text>
-        <animate attributeName="opacity" to="1" begin="1.8s" dur="0.08s" fill="freeze"/>
+        <text x="80" y="196" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4a7a5e" opacity="0">[  OK  ] Loading docs.conf
+          <animate attributeName="opacity" to="1" begin="1.5s" dur="0.08s" fill="freeze"/>
+        </text>
+        <text x="80" y="210" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4a7a5e" opacity="0">[  OK  ] Initializing doc. subsystem
+          <animate attributeName="opacity" to="1" begin="1.8s" dur="0.08s" fill="freeze"/>
+        </text>
 
         <!-- AUTOMATION MODULE -->
-        <text x="80" y="232" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99" opacity="0">LOADING AUTOMATION MODULE...</text>
-        <animate attributeName="opacity" to="1" begin="2.1s" dur="0.08s" fill="freeze"/>
+        <text x="80" y="232" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99" opacity="0">LOADING AUTOMATION MODULE...
+          <animate attributeName="opacity" to="1" begin="2.1s" dur="0.08s" fill="freeze"/>
+        </text>
 
         <rect x="80" y="244" width="240" height="10" fill="#0a1a0a" rx="1" opacity="0">
           <animate attributeName="opacity" to="1" begin="2.1s" dur="0.08s" fill="freeze"/>
@@ -95,17 +101,21 @@
         <rect x="80" y="244" width="0" height="10" fill="#66ff99" rx="1" opacity="0.85">
           <animate attributeName="width" from="0" to="240" begin="2.2s" dur="0.5s" fill="freeze"/>
         </rect>
-        <text x="330" y="254" font-family="'Courier New',Courier,monospace" font-size="12" fill="#66ff99" opacity="0">100%</text>
-        <animate attributeName="opacity" to="1" begin="2.7s" dur="0.08s" fill="freeze"/>
+        <text x="330" y="254" font-family="'Courier New',Courier,monospace" font-size="12" fill="#66ff99" opacity="0">100%
+          <animate attributeName="opacity" to="1" begin="2.7s" dur="0.08s" fill="freeze"/>
+        </text>
 
-        <text x="80" y="270" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3d6b4e" opacity="0">[  OK  ] Loading /etc/rmg/automation.conf</text>
-        <animate attributeName="opacity" to="1" begin="2.3s" dur="0.08s" fill="freeze"/>
-        <text x="80" y="284" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3d6b4e" opacity="0">[  OK  ] Initializing automation engine</text>
-        <animate attributeName="opacity" to="1" begin="2.6s" dur="0.08s" fill="freeze"/>
+        <text x="80" y="270" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4a7a5e" opacity="0">[  OK  ] Loading automation.conf
+          <animate attributeName="opacity" to="1" begin="2.3s" dur="0.08s" fill="freeze"/>
+        </text>
+        <text x="80" y="284" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4a7a5e" opacity="0">[  OK  ] Initializing automations
+          <animate attributeName="opacity" to="1" begin="2.6s" dur="0.08s" fill="freeze"/>
+        </text>
 
         <!-- OPEN SOURCE MODULE -->
-        <text x="80" y="306" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99" opacity="0">LOADING OPEN SOURCE MODULE...</text>
-        <animate attributeName="opacity" to="1" begin="2.9s" dur="0.08s" fill="freeze"/>
+        <text x="80" y="306" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99" opacity="0">LOADING OPEN SOURCE MODULE...
+          <animate attributeName="opacity" to="1" begin="2.9s" dur="0.08s" fill="freeze"/>
+        </text>
 
         <rect x="80" y="318" width="240" height="10" fill="#0a1a0a" rx="1" opacity="0">
           <animate attributeName="opacity" to="1" begin="2.9s" dur="0.08s" fill="freeze"/>
@@ -113,17 +123,21 @@
         <rect x="80" y="318" width="0" height="10" fill="#66ff99" rx="1" opacity="0.85">
           <animate attributeName="width" from="0" to="240" begin="3.0s" dur="0.5s" fill="freeze"/>
         </rect>
-        <text x="330" y="328" font-family="'Courier New',Courier,monospace" font-size="12" fill="#66ff99" opacity="0">100%</text>
-        <animate attributeName="opacity" to="1" begin="3.5s" dur="0.08s" fill="freeze"/>
+        <text x="330" y="328" font-family="'Courier New',Courier,monospace" font-size="12" fill="#66ff99" opacity="0">100%
+          <animate attributeName="opacity" to="1" begin="3.5s" dur="0.08s" fill="freeze"/>
+        </text>
 
-        <text x="80" y="344" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3d6b4e" opacity="0">[  OK  ] Loading /etc/rmg/opensource.conf</text>
-        <animate attributeName="opacity" to="1" begin="3.1s" dur="0.08s" fill="freeze"/>
-        <text x="80" y="358" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3d6b4e" opacity="0">[  OK  ] Syncing repository index</text>
-        <animate attributeName="opacity" to="1" begin="3.4s" dur="0.08s" fill="freeze"/>
+        <text x="80" y="344" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4a7a5e" opacity="0">[  OK  ] Loading opensource.conf
+          <animate attributeName="opacity" to="1" begin="3.1s" dur="0.08s" fill="freeze"/>
+        </text>
+        <text x="80" y="358" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4a7a5e" opacity="0">[  OK  ] Syncing repository index
+          <animate attributeName="opacity" to="1" begin="3.4s" dur="0.08s" fill="freeze"/>
+        </text>
 
         <!-- AI TOOLS -->
-        <text x="80" y="380" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99" opacity="0">LOADING AI TOOLS...</text>
-        <animate attributeName="opacity" to="1" begin="3.7s" dur="0.08s" fill="freeze"/>
+        <text x="80" y="380" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99" opacity="0">LOADING AI TOOLS...
+          <animate attributeName="opacity" to="1" begin="3.7s" dur="0.08s" fill="freeze"/>
+        </text>
 
         <rect x="80" y="392" width="240" height="10" fill="#0a1a0a" rx="1" opacity="0">
           <animate attributeName="opacity" to="1" begin="3.7s" dur="0.08s" fill="freeze"/>
@@ -131,13 +145,16 @@
         <rect x="80" y="392" width="0" height="10" fill="#66ff99" rx="1" opacity="0.85">
           <animate attributeName="width" from="0" to="240" begin="3.8s" dur="0.5s" fill="freeze"/>
         </rect>
-        <text x="330" y="402" font-family="'Courier New',Courier,monospace" font-size="12" fill="#66ff99" opacity="0">100%</text>
-        <animate attributeName="opacity" to="1" begin="4.3s" dur="0.08s" fill="freeze"/>
+        <text x="330" y="402" font-family="'Courier New',Courier,monospace" font-size="12" fill="#66ff99" opacity="0">100%
+          <animate attributeName="opacity" to="1" begin="4.3s" dur="0.08s" fill="freeze"/>
+        </text>
 
-        <text x="80" y="418" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3d6b4e" opacity="0">[  OK  ] Loading /etc/rmg/ai.conf</text>
-        <animate attributeName="opacity" to="1" begin="3.9s" dur="0.08s" fill="freeze"/>
-        <text x="80" y="432" font-family="'Courier New',Courier,monospace" font-size="11" fill="#3d6b4e" opacity="0">[  OK  ] Initializing AI integration layer</text>
-        <animate attributeName="opacity" to="1" begin="4.2s" dur="0.08s" fill="freeze"/>
+        <text x="80" y="418" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4a7a5e" opacity="0">[  OK  ] Loading ai.conf
+          <animate attributeName="opacity" to="1" begin="3.9s" dur="0.08s" fill="freeze"/>
+        </text>
+        <text x="80" y="432" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4a7a5e" opacity="0">[  OK  ] Initializing AI integration
+          <animate attributeName="opacity" to="1" begin="4.2s" dur="0.08s" fill="freeze"/>
+        </text>
 
         <!-- SYSTEM READY -->
         <text x="80" y="462" font-family="'Courier New',Courier,monospace" font-size="18" fill="#66ff99" opacity="0" font-weight="bold" filter="url(#glow)">SYSTEM READY</text>
