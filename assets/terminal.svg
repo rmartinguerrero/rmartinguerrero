@@ -206,19 +206,36 @@
 
         <text x="80" y="314" font-family="'Courier New',Courier,monospace" font-size="12" fill="#2a3a2a">&#9500;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9508;</text>
 
-        <text x="100" y="341" font-family="'Courier New',Courier,monospace" font-size="18" fill="#ffe066" font-weight="bold">ACTIVE PROJECTS</text>
+        <text x="100" y="341" font-family="'Courier New',Courier,monospace" font-size="18" fill="#ffe066" font-weight="bold">PUBLIC PROJECTS</text>
 
-        <text x="120" y="368" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99">CV PARA TODOS</text>
-        <text x="320" y="368" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e">&#9474; Content Creator</text>
+        <text x="120" y="361" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99">CV PARA TODOS</text>
+        <text x="120" y="379" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99">SUPERVIVENCIA LABORAL</text>
+        <text x="120" y="397" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99">MR.FIX</text>
 
-        <text x="120" y="390" font-family="'Courier New',Courier,monospace" font-size="14" fill="#66ff99">MRFIX</text>
+        <text x="100" y="417" font-family="'Courier New',Courier,monospace" font-size="18" fill="#ffe066" font-weight="bold">PRIVATE PROJECTS</text>
 
-        <text x="80" y="414" font-family="'Courier New',Courier,monospace" font-size="12" fill="#2a3a2a">&#9492;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9496;</text>
+        <text x="120" y="437" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e" font-weight="bold">PROJECT</text>
+        <text x="420" y="437" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e" font-weight="bold">STATUS</text>
+        <text x="680" y="437" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e" font-weight="bold">OSS</text>
 
-        <text x="80" y="441" font-family="'Courier New',Courier,monospace" font-size="16" fill="#66ff99" filter="url(#glow)">READY</text>
+        <text x="120" y="455" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e">raulmguerrero.com</text>
+        <text x="420" y="455" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e">Completed</text>
+        <text x="680" y="455" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e">&#10060;</text>
 
-        <text x="80" y="467" font-family="'Courier New',Courier,monospace" font-size="16" fill="#66ff99" filter="url(#glow)">&gt; </text>
-        <rect x="98" y="455" width="9" height="16" fill="#66ff99">
+        <text x="120" y="471" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e">Content Creator</text>
+        <text x="420" y="471" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e">Work in Progress</text>
+        <text x="680" y="471" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e">&#10067;</text>
+
+        <text x="120" y="487" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e">Nostaltum</text>
+        <text x="420" y="487" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e">Work in Progress</text>
+        <text x="680" y="487" font-family="'Courier New',Courier,monospace" font-size="13" fill="#4a7a5e">&#10067;</text>
+
+        <text x="80" y="505" font-family="'Courier New',Courier,monospace" font-size="12" fill="#2a3a2a">&#9492;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9496;</text>
+
+        <text x="80" y="525" font-family="'Courier New',Courier,monospace" font-size="16" fill="#66ff99" filter="url(#glow)">READY</text>
+
+        <text x="80" y="551" font-family="'Courier New',Courier,monospace" font-size="16" fill="#66ff99" filter="url(#glow)">&gt; </text>
+        <rect x="98" y="539" width="9" height="16" fill="#66ff99">
           <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
         </rect>
       </g>

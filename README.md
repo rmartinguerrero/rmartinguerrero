@@ -32,20 +32,21 @@ Create, manage and publish a professional CV without unnecessary complexity.
 
 → https://github.com/rmartinguerrero/CV-para-todos
 
-
-## Content Creator
-
-A modular content automation system focused on creating structured, maintainable and reusable workflows.
-
-Built around simplicity, documentation and clear architecture.
-
-→ Work in progress
+---
 
 ## MrFix
 
-A public utility repository with tools and scripts for technical problem solving.
+A collection of technical utilities and troubleshooting tools for Windows.
 
 → https://github.com/rmartinguerrero/MrFix
+
+---
+
+## Content Creator
+
+A modular content automation system focused on structured content generation, reusable workflows and AI-assisted automation.
+
+🚧 Currently under active development.
 
 <br>
 
@@ -55,7 +56,7 @@ A public utility repository with tools and scripts for technical problem solving
     [✓] Documentation
     [✓] Open Source
     [✓] AI Tools
-    [✓] System Design
+    [✓] Technical Solutions
 
 Currently exploring better ways to combine automation, artificial intelligence and human-friendly technology.
 
@@ -79,7 +80,7 @@ Currently exploring better ways to combine automation, artificial intelligence a
     GitHub Actions
 
 
-    WEB & TOOLS
+    TOOLS
 
     Astro
     WordPress
@@ -127,8 +128,9 @@ If a repetitive task can be automated, it probably should be.
 
     BUILDING
 
-    CV Para Todos
-    Content Creator
+    Practical Tools
+    Technical Documentation
+    AI Workflows
 
 
     MODE
@@ -137,26 +139,49 @@ If a repetitive task can be automated, it probably should be.
 
 <br>
 
-# ▸ PUBLIC REPOSITORIES
+# ▸ PROJECTS
 
-    ACTIVE MODULES
+## PUBLIC PROJECTS
 
-    ✓ CV Para Todos
-    ✓ [MrFix](https://github.com/rmartinguerrero/MrFix)
-    ✓ MrFix-esp
-    ✓ Giscus integration
-    ✓ Personal Resume
+Projects currently available to everyone.
+
+| Project | Description |
+|---------|-------------|
+| ✅ **CV Para Todos** | Privacy-first CV generator based on the JSON Resume standard. |
+| ✅ **MrFix** | Technical utilities and troubleshooting tools. |
+| ✅ **MrFix-esp** | Spanish version of the MrFix toolkit. |
+| ✅ **Supervivencia Laboral** | Resources and tools focused on today's working world. |
+| ✅ **Giscus Integration** | Repository used for the comments system on my website. |
+| ✅ **Personal Resume** | Static résumé published with GitHub Pages. |
+
+<br>
+
+## PRIVATE PROJECTS
+
+Projects currently under active development.
+
+| Project | Status | Open Source |
+|---------|--------|-------------|
+| ⚪ **raulmguerrero.com** | ✅ Completed | ❌ No |
+| ⚪ **Content Creator** | 🚧 Work in Progress | ❓ Undecided |
+| ⚪ **Nostaltum** | 🚧 Work in Progress | ❓ Undecided |
 
 <br>
 
 # ▸ CONTACT
-FORM:
+
+**Website**
+
+→ https://www.raulmguerrero.com
+
+**Contact**
 
 ES:
-→ [raulmguerrero.com/es/contacto](https://raulmguerrero.com/es/contacto)
+→ https://www.raulmguerrero.com/es/contacto
 
 IT:
-→ [raulmguerrero.com/it/contatto](https://www.raulmguerrero.com/it/contatto)
+→ https://www.raulmguerrero.com/it/contatto
+
 <br>
 
 <p align="center">
