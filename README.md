@@ -143,10 +143,6 @@ If a repetitive task can be automated, it probably should be.
 <br>
 
 # ▸ CONTACT
-
-PROFILE
-github.com/rmartinguerrero
-
 FORM:
 ES:
 → https://raulmguerrero.com/es/contacto
