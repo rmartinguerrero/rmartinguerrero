@@ -41,6 +41,12 @@ Built around simplicity, documentation and clear architecture.
 
 → Work in progress
 
+## MrFix
+
+A public utility repository with tools and scripts for technical problem solving.
+
+→ https://github.com/rmartinguerrero/MrFix
+
 <br>
 
 # ▸ CURRENT MISSION
@@ -136,6 +142,7 @@ If a repetitive task can be automated, it probably should be.
     ACTIVE MODULES
 
     ✓ CV Para Todos
+    ✓ [MrFix](https://github.com/rmartinguerrero/MrFix)
     ✓ MrFix-esp
     ✓ Giscus integration
     ✓ Personal Resume
@@ -146,10 +153,10 @@ If a repetitive task can be automated, it probably should be.
 FORM:
 
 ES:
-→ https://raulmguerrero.com/es/contacto
+→ [raulmguerrero.com/es/contacto](https://raulmguerrero.com/es/contacto)
 
 IT:
-→ https://www.raulmguerrero.com/it/contatto
+→ [raulmguerrero.com/it/contatto](https://www.raulmguerrero.com/it/contatto)
 <br>
 
 <p align="center">
