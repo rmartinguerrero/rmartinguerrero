@@ -60,9 +60,12 @@
       <!-- ============================== -->
       <g id="boot">
 
-        <text x="80" y="78" font-family="'Courier New',Courier,monospace" font-size="22" fill="#66ff99" opacity="0" font-weight="bold" filter="url(#glow)">RMG TECHNICAL WORKSTATION</text>
-        <text x="80" y="96" font-family="'Courier New',Courier,monospace" font-size="12" fill="#2a3a2a" opacity="0">&#9484;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;</text>
-        <animate attributeName="opacity" values="1;1" begin="0.3s" dur="0.1s" fill="freeze"/>
+        <text x="80" y="78" font-family="'Courier New',Courier,monospace" font-size="22" fill="#66ff99" opacity="0" font-weight="bold" filter="url(#glow)">RMG TECHNICAL WORKSTATION
+          <animate attributeName="opacity" to="1" begin="0.3s" dur="0.1s" fill="freeze"/>
+        </text>
+        <text x="80" y="96" font-family="'Courier New',Courier,monospace" font-size="12" fill="#2a3a2a" opacity="0">&#9484;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9488;
+          <animate attributeName="opacity" to="1" begin="0.3s" dur="0.1s" fill="freeze"/>
+        </text>
 
         <text x="80" y="126" font-family="'Courier New',Courier,monospace" font-size="15" fill="#66ff99" opacity="0" filter="url(#glow)">INITIALIZING RMG SYSTEM...
           <animate attributeName="opacity" to="1" begin="0.9s" dur="0.08s" fill="freeze"/>
@@ -157,12 +160,14 @@
         </text>
 
         <!-- SYSTEM READY -->
-        <text x="80" y="462" font-family="'Courier New',Courier,monospace" font-size="18" fill="#66ff99" opacity="0" font-weight="bold" filter="url(#glow)">SYSTEM READY</text>
-        <animate attributeName="opacity" to="1" begin="4.7s" dur="0.08s" fill="freeze"/>
+        <text x="80" y="462" font-family="'Courier New',Courier,monospace" font-size="18" fill="#66ff99" opacity="0" font-weight="bold" filter="url(#glow)">SYSTEM READY
+          <animate attributeName="opacity" to="1" begin="4.7s" dur="0.08s" fill="freeze"/>
+        </text>
 
         <!-- Boot prompt -->
-        <text x="80" y="492" font-family="'Courier New',Courier,monospace" font-size="16" fill="#66ff99" opacity="0">&gt; </text>
-        <animate attributeName="opacity" to="1" begin="5.1s" dur="0.05s" fill="freeze"/>
+        <text x="80" y="492" font-family="'Courier New',Courier,monospace" font-size="16" fill="#66ff99" opacity="0">&gt; 
+          <animate attributeName="opacity" to="1" begin="5.1s" dur="0.05s" fill="freeze"/>
+        </text>
         <rect x="98" y="480" width="9" height="16" fill="#66ff99" opacity="0">
           <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="5.1s"/>
           <animate attributeName="opacity" to="0" begin="5.5s" dur="0.3s" fill="freeze"/>
