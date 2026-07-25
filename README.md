@@ -145,9 +145,14 @@ If a repetitive task can be automated, it probably should be.
 # ▸ CONTACT
 
     PROFILE
-
     github.com/rmartinguerrero
 
+    FORM:
+    ES:
+    → https://raulmguerrero.com/es/contacto
+
+    IT:
+    → https://www.raulmguerrero.com/it/contatto
 <br>
 
 <p align="center">
